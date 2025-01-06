@@ -1,4 +1,4 @@
-<h2 style="color: Blue"> Machine Learning </h2>
+<h2> Machine Learning </h2>
 
 <h3 style="color: Blue"> Supervised ML </h3>
 
